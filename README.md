@@ -10,5 +10,3 @@ npm install
 ```bash
 npm start
 ```
-
-## Run the application
