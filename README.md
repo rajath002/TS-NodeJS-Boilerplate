@@ -10,3 +10,8 @@ npm install
 ```bash
 npm start
 ```
+
+## (Dev) Run the application 
+```bash
+npm run dev
+```
